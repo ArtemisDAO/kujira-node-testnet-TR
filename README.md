@@ -159,3 +159,8 @@ kujirad tx staking create-validator --moniker="${MONIKER_NAME}" \
 Son olarak https://testnets.cosmosrun.info/kujira-harpoon-3/ kendimizi kontrol edelim.
 
 Teşekkürler..
+
+Buraya ekleme yapalım;
+
+Bu işlemleri yaptıktaon sonra Discord kanalına gidip, validator-requests kanalından validator linkinizi göndermeniz gerekiyor.
+discord linki: https://discord.gg/teamkujira
